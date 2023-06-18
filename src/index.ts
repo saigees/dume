@@ -2,9 +2,7 @@ import "dotenv/config"
 import fastify from "fastify"
 import { router } from "./utils"
 
-const app = fastify({
-    logger: true
-})
+const app = fastify()
 
 
 router(app).then(() => {
