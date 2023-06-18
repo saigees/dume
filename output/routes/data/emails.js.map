@@ -1,1 +1,0 @@
-{"version":3,"file":"emails.js","sourceRoot":"","sources":["../../../src/routes/data/emails.ts"],"names":[],"mappings":";;;;;AAAA,2CAAwC;AAExC,yEAA2C;AAC3C,uCAAuC;AAEvC,kBAAe,IAAI,aAAK,CAAC;IACrB,IAAI,EAAE,SAAS;IACf,MAAM,EAAE,KAAK;IACb,IAAI,EAAE,CAAC,GAAG,EAAC,GAAG,EAAE,EAAE;QACd,OAAO,IAAA,gBAAQ,EAAC,qBAAM,EAAE,GAAG,EAAC,GAAG,CAAC,CAAA;IACpC,CAAC;CACJ,CAAC,CAAA"}

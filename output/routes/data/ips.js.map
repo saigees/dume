@@ -1,1 +1,0 @@
-{"version":3,"file":"ips.js","sourceRoot":"","sources":["../../../src/routes/data/ips.ts"],"names":[],"mappings":";;;;;AAAA,2CAAwC;AAExC,mEAAqC;AACrC,uCAAuC;AAEvC,kBAAe,IAAI,aAAK,CAAC;IACrB,IAAI,EAAE,MAAM;IACZ,MAAM,EAAE,KAAK;IACb,IAAI,EAAE,CAAC,GAAG,EAAC,GAAG,EAAE,EAAE;QACd,OAAO,IAAA,gBAAQ,EAAC,kBAAG,EAAE,GAAG,EAAC,GAAG,CAAC,CAAA;IACjC,CAAC;CACJ,CAAC,CAAA"}

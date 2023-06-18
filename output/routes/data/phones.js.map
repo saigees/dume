@@ -1,1 +1,0 @@
-{"version":3,"file":"phones.js","sourceRoot":"","sources":["../../../src/routes/data/phones.ts"],"names":[],"mappings":";;;;;AAAA,2CAAwC;AAExC,yEAAiD;AACjD,uCAAuC;AAEvC,kBAAe,IAAI,aAAK,CAAC;IACrB,IAAI,EAAE,gBAAgB;IACtB,MAAM,EAAE,KAAK;IACb,IAAI,EAAE,CAAC,GAAG,EAAC,GAAG,EAAE,EAAE;QACd,OAAO,IAAA,gBAAQ,EAAC,qBAAY,EAAE,GAAG,EAAC,GAAG,CAAC,CAAA;IAC1C,CAAC;CACJ,CAAC,CAAA"}

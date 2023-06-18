@@ -1,1 +1,0 @@
-{"version":3,"file":"bank.js","sourceRoot":"","sources":["../../../src/routes/data/bank.ts"],"names":[],"mappings":";;;;;AAAA,2CAAwC;AAExC,qEAAwC;AACxC,uCAAuC;AAEvC,kBAAe,IAAI,aAAK,CAAC;IACrB,IAAI,EAAE,aAAa;IACnB,MAAM,EAAE,KAAK;IACb,IAAI,EAAE,CAAC,GAAG,EAAC,GAAG,EAAE,EAAE;QACd,OAAO,IAAA,gBAAQ,EAAC,mBAAK,EAAE,GAAG,EAAC,GAAG,CAAC,CAAA;IACnC,CAAC;CACJ,CAAC,CAAA"}
