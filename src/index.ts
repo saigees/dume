@@ -8,5 +8,5 @@ const app = fastify({
 
 
 router(app).then(() => {
-    app.listen({ port: parseInt(process.env.PORT) })
+    app.listen({ port: parseInt(process.env.PORT), host: "192.168.0.9" })
 })
