@@ -1,10 +1,12 @@
-![!Dume Banner](https://saige.zip/Dume.png)
+[!Dume Banner](https://saige.zip/Dume.png)
 
-`/names` -> [First Name, Middle Name, Last Name]
-`/addresses` -> Object[]
-`/bank-cards` -> Object[]
-`/emails` -> String[]
-`/ips` -> String[]
-`/phones` -> String[]
-`/people` -> Object[]
-`/passwords` -> String[]
+---
+
+`/names` -> [First Name, Middle Name, Last Name]<br/>
+`/addresses` -> Object[]<br/>
+`/bank-cards` -> Object[]<br/>
+`/emails` -> String[]<br/>
+`/ips` -> String[]<br/>
+`/phones` -> String[]<br/>
+`/people` -> Object[]<br/>
+`/passwords` -> String[]<br/>
