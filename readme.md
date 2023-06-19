@@ -1,4 +1,4 @@
-[!Dume Banner](https://saige.zip/Dume.png)
+![Dume Banner](https://saige.zip/Dume.png)
 
 ---
 
